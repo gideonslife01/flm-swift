@@ -6,3 +6,4 @@
 - ImageState : 이미지넣기,상태관리 / Insert image,Sate management
 - Variable : 변수와 상수 / Variables and Constants
 - ObservedObject : ObservedObject and StateObject - 1
+- ObservedObject : ObservedObject and StateObject - 2
